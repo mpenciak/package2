@@ -5,4 +5,3 @@ authors = [""]
 
 [dependencies]
 transitive_package21 = { tag = "main", git = "https://www.github.com/mpenciak/transitive_package21" }
-transitive_package22 = { path = "../transitive_package22" }
